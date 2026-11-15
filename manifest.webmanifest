@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "PACE. | Il mio Running Journal",
+  "name": "PACE. — Sport Performance",
   "short_name": "PACE.",
-  "description": "Gare, tempi e progressi della corsa",
+  "description": "Il tuo archivio delle gare Running e HYROX ufficiali",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
@@ -12,7 +12,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon.svg",
+      "src": "./icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
